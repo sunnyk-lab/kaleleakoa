@@ -13,7 +13,11 @@ title: Home
 ```markdown
 /hello world
 ```
-
+---
+layout: post
+title: "My Blog Post"
+date: 2024-01-01
+---
 # Below are my latest posts:
 
 {% for post in site.posts %}
