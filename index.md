@@ -17,7 +17,6 @@ title: Home
 ***
 
 
-
 # My musings
 
 {% for post in site.posts limit:5 %}
